@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "motor",
+					"strict" : false
+				},
+				{
+					"name" : "leds[7]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[6]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[5]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[4]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[3]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[2]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "leds2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sensor",
+					"strict" : false
+				},
+				{
+					"name" : "Clk",
+					"strict" : false
+				},
+				{
+					"name" : "nRst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
